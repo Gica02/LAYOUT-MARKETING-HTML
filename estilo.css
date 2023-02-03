@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    color: white;
+}
+
+#azul{
+    background: rgb(0, 183, 255);
+    padding: 20px;
+}
+
+#azul-3{
+    background: rgb(0, 183, 255);
+    padding: 20px;
+    height: 300px;
+}
+
+#cinza{
+    background: grey;
+    height: 300px;
+}
+
+#red{
+    background: red;
+    padding: 50px;
+}
+
+#preto{
+    background: rgb(51, 51, 51);
+    padding: 80px;
+}
+
+.col-12, .col-8, .col-4, .col-3, .col-2{
+    border: 5px solid white;
+}
