@@ -9,28 +9,28 @@ body{
 }
 
 #azul{
-    background: rgb(0, 183, 255);
+    background: rgb(24, 185, 177);
     padding: 20px;
 }
 
 #azul-3{
-    background: rgb(0, 183, 255);
+    background: rgb(52, 89, 104);
     padding: 20px;
     height: 300px;
 }
 
 #cinza{
-    background: grey;
+    background: rgb(82, 152, 180);
     height: 300px;
 }
 
 #red{
-    background: red;
+    background: rgb(202, 134, 88);
     padding: 50px;
 }
 
 #preto{
-    background: rgb(51, 51, 51);
+    background: rgb(204, 200, 148);
     padding: 80px;
 }
 
